@@ -9,12 +9,11 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Greetings, everyone! I'm Alsonn Joseph C. Guanlao, a passionate and driven 3rd-year Computer Engineering student. Beyond the world of circuits and algorithms, I'm a dedicated follower of the incredible boy group Seventeen, finding solace and inspiration in their music.</p>
-        <p>When I'm not diving into the exciting realms of Computer Engineering, you'll often find me immersed in the virtual landscapes of gaming. I thrive on the challenges and victories that gaming brings, always seeking new adventures and experiences.</p>
-        <p>Adding to my diverse repertoire, I'm honored to serve as the President of the ICpEP.se UA Chapter. Guiding and collaborating with fellow students to foster growth and innovation in the field of electronics and computer engineering is a role I hold close to my heart.</p>
-        <p>But wait, there's more! Music is my soul's language, and I express myself through the soothing notes of the piano and the rhythmic strums of the guitar. Whether I'm unwinding after a busy day of studies or infusing creativity into my free time, these instruments are my companions on this melodious journey.</p>
-        <p>So, whether I'm exploring the intricacies of engineering, jamming to Seventeen's beats, conquering virtual worlds, leading ICpEP.se to new heights, or serenading the universe with my musical talents, I'm constantly embracing the many facets of life with enthusiasm and zeal. Let's connect and share our passions, I can't wait to get to know fellow spirits who share my love for all things extraordinary!
-
+        <p>Hey there, I'm Alsonn Joseph C. Guanlao, and I'm on an electrifying journey as a 3rd-year Computer Engineering student. From the intricate dance of circuits to the captivating symphony of code, I'm wholeheartedly captivated by the world of technology.</p>
+        <p>As a die-hard fan of Seventeen, I've not only harmonized with their melodies but also found harmony in the world of gaming. When I'm not immersed in the virtual realm, I'm leading the charge as the President of the ICpEP.se UA Chapter. Collaborating with fellow enthusiasts, I'm steering the ship toward innovation in electronics and computer engineering.</p>
+        <p>But that's not all, my passions extend beyond the digital realm. The piano and guitar are my constant companions, guiding me through the rhythm of life. I pour my heart and soul into crafting musical notes that resonate with my very essence.</p>
+        <p>The path of Computer Engineering was my true calling, my first choice fueled by an insatiable curiosity for computers and technology. Looking ahead, I envision myself as an electronics inventor, a trailblazing programmer, or perhaps a visionary app developer. The prospect of shaping the future through innovation and creativity ignites a fire within me.</p>
+        <p>So, whether I'm decoding complex algorithms, jamming to Seventeen's beats, conquering virtual realms, leading ICpEP.se to new horizons, or composing melodies on my beloved instruments, I'm embracing every moment with boundless energy and determination. Join me as we dive into the exciting currents of technology and creativity, where the possibilities are as limitless as our aspirations!
 </p>
       </section>
     </Layout>
